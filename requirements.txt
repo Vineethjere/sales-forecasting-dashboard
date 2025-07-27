@@ -1,7 +1,6 @@
-streamlit
-pandas
-matplotlib
-scikit-learn
-keras
-tensorflow
-prophet
+streamlit==1.47.1
+pandas==2.3.1
+matplotlib==3.8.4
+scikit-learn==1.4.1
+keras==2.12.0
+tensorflow==2.12.0
